@@ -5,3 +5,5 @@ This tutorial focuses on github
 
 This repo is built step by step in tutorial
 It now includes steps of github
+
+Make a branch on local and push the branch to github
